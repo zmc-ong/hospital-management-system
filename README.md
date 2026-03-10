@@ -1,7 +1,7 @@
 ## Hospital Management System
 
 ### 📝 Description
-A Hospital Management System developed for Computer Programming 2. This project implements a complete medical records system with user authentication, role-based access control, and JSON file storage.
+A Python-based Hospital Management System. This project implements a complete medical records system with user authentication, role-based access control, and JSON file storage.
 
 ### 🚀 Features
 - 🔐 **User Management & Authentication** - Secure login and password recovery
