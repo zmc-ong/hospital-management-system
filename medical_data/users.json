@@ -1,0 +1,23 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "security_question": "What was your first pet's name?",
+    "security_answer": "66443efe6ecf5853e9fc80b2250986d9606b07f1d15b1a0a1d5bd1eeeed7a153",
+    "name": "System Admin"
+  },
+  "e": {
+    "password": "3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea",
+    "role": "patient",
+    "name": "e",
+    "security_question": "What city were you born in?",
+    "security_answer": "3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea"
+  },
+  "yee": {
+    "password": "3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea",
+    "role": "doctor",
+    "name": "e",
+    "security_question": "What was your first pet's name?",
+    "security_answer": "3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea"
+  }
+}
